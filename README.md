@@ -1,4 +1,4 @@
-# whoran
+# WhoRan
 
 WhoRan is a Linux process tracer written in C. Give it a command and it shows which process launched each child, how long each process ran, and how it exited. The tree goes to stderr, so you can still pipe the command's stdout to another program.
 
